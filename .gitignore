@@ -1,6 +1,10 @@
 #Akif Added
 .DS_Store
+/.DS_Store
+
+/cph
 *.bin
+/*.bin
 
 # Prerequisites
 *.d
@@ -32,6 +36,8 @@
 
 # Executables
 *.exe
+/*.exe
 *.exec
+/*.exec
 *.out
 *.app
