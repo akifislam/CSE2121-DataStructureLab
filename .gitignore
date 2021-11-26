@@ -1,3 +1,7 @@
+#Akif Added
+.DS_Store
+*.bin
+
 # Prerequisites
 *.d
 
@@ -28,5 +32,6 @@
 
 # Executables
 *.exe
+*.exec
 *.out
 *.app
