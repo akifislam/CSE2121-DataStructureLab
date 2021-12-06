@@ -5,9 +5,11 @@ int arr[100000];
 
 int main()
 {
+    cout << "Enter the size of the array : " << endl;
     int array_size;
     cin >> array_size;
 
+    cout << "Array Elements : " << endl;
     for (int i = 0; i < array_size; i++)
     {
         cin >> arr[i]; // 1 2 3 4 5

@@ -20,17 +20,15 @@ int main()
 
     cout << "Enter Size of the Array : " << endl;
     cin >> array_size;
-    cout << "Enter elements of Sorted Array : " << endl;
 
-    // 1 2 3
-    // = = 2  3
+    cout << "Enter elements of Array : " << endl;
 
     for (int i = 0; i < array_size; i++)
     {
         cin >> arr[i];
     }
 
-    cout << "Enter a number to insert into sorted array : " << endl;
+    cout << "Enter a number into array : " << endl;
     int num;
     cin >> num;
 
